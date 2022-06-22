@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,45 +35,13 @@
   ],
   "Addon": [
   {
-    "name": "Dragon Morph Addon",
-    "role": "Ender Dragons are majestic creatures right? Wouldn't it be cool if you could become one. This addon makes it possible! Turning into one isn't going to be that easy though.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/dragon/21/3.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/dragon/21/dragonmorph.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/dragon/21/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/dragon/21/1.png"
-  },
-  {
-    "name": "Curse Dragon",
-    "role": "The curse Ender Dragon! It's just ender dragon but he's not look like normal ender dragon it has 3 heads and four wings And he can summon huge groups of lightning bolts!",
-    "image": "https://kossandroid.com/Data Android/Minecraft/dragon/23/2.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/dragon/23/CURSEDDRAG.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/dragon/23/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/dragon/23/1.png"
-  },
-  {
-    "name": "Miss Kobayashi's Dragon Maid Addon (Unofficial)",
-    "role": "Do you like Anime? This is a Minecraft recreation of one of Elon Musk's recommended animes.Summon a maid, transform it into a dragon and fly wth Tohru, Kanna, Elma, Lucoa! This add-on's based on 'Miss Kobayashi's Dragon Maid' by Coolkyousinnjya.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/dragon/24/3.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/dragon/24/Miss_kobayashis_dragon_maid_Addon_1.0.1.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/dragon/24/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/dragon/24/1.png"
-  },
-  {
-    "name": "Dragon Ball Z Stands *NEW UPDATE*",
-    "role": "My new dragon ball addon for minecraft mobile that adds stands like jojo's but dragon super that adds 9 characters in this version of the dragon ball addon.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/dragon/28/3.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/dragon/28/VERSÃO BETA 3 STANDS Z.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/dragon/28/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/dragon/28/1.png"
-  },
-  {
-    "name": "Dragon Warboat",
-    "role": "Be the Ruler of the Sea with your Dragon Warboat, and let loose with its Massive Crossbow. Mow down those mobs; you'll love it, they'll love it, everyone will love it.Shore bombardment anyone?",
-    "image": "https://kossandroid.com/Data Android/Minecraft/dragon/30/1.jpeg",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/dragon/30/warboats.v1.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/dragon/30/1.jpeg",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/dragon/30/1.jpeg"
-  }
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
   ],
   "Map": [
     {
